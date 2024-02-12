@@ -1,2 +1,2 @@
 # texturelessfps
-TexturelessFPS is a project that removes textures from Roblox and unlocks FPS 
+TexturelessFPS is a project that removes textures from Roblox and unlocks FPS. Primarily designed for Phantom Forces. What is it? Its a compressed file that has the roblox launcher embedded, the roblox file has the good stuff already implemented on it. When decompressed click the file, you should then see the roblox application. The FPS unlocker is limited to 120 FPS but can be changed in the 'ClientSettings' file you'll see the number 120 at the top, thats the fps cap, simply type the value you want roblox to limit the fps to.
